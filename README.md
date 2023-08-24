@@ -29,7 +29,7 @@ Some content at a glance:
     alt="Certificate of Completion, FullStack Open, with 7 credits and grade 5, code ccc86e45c41519ba99336bb0ef824bbc"
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/62879099/262879240-181fc56d-8f39-42ef-a838-7c9a115efd1a.png" 
     data-credential-id="ccc86e45c41519ba99336bb0ef824bbc" 
-    width="240"
+    width="200"
   />
 </a>
 
@@ -38,7 +38,7 @@ Some content at a glance:
     alt="Certificate of Completion, FullStack Open Typescrypt, with 1 credit, code a1288f2b3848711b7de111e2b6f14bb5"
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/62879099/262880468-bac05a72-3345-4558-9144-f8262db67ad7.png" 
     data-credential-id="a1288f2b3848711b7de111e2b6f14bb5" 
-    width="240"
+    width="200"
   />
 </a>
 
@@ -47,7 +47,7 @@ Some content at a glance:
     alt="Certificate of Completion, FullStack Open GraphQl, with 1 credit, code f3a65b58e7e4e0a27997d96c4aec3096"
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/62879099/262881301-28211ef5-b516-411e-81be-8771c5dbb9e5.png" 
     data-credential-id="f3a65b58e7e4e0a27997d96c4aec3096" 
-    width="240"
+    width="200"
   />
 </a>
 
@@ -56,7 +56,7 @@ Some content at a glance:
     alt="Certificate of Completion, FullStack Open React Native, with 2 credits, code 26ff65848ad33b37f925af9b32decf0d"
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/62879099/262881733-f87f06d4-1a3a-4561-9560-465bcdc58f7e.png" 
     data-credential-id="26ff65848ad33b37f925af9b32decf0d" 
-    width="240"
+    width="200"
   />
 </a>
 
