@@ -8,7 +8,7 @@
 
 
 ##### Certificates 📜📜📜📜
-React FulStack Open course at University of Helsinki, with the highest grade and credits. 
+React FulStack Open course at University of Helsinki. 
 
 Some content at a glance:
  - **Frontend:** React.js, function components and hooks, Redux, React Router, CSS in JS, Promises and async/await, Axios, Apollo, Token Auth, Formik, Yup (form validation) 
